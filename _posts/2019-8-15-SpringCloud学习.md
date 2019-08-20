@@ -1,0 +1,10 @@
+# 微服务构建：Spring Boot
+# 服务治理： Eureka
+# 客户端负载均衡：  Ribbon
+# 服务端容错保护：  Hystrix
+# 声明式服务调用：  Feign
+# API网关服务：  Zuul
+# 分布式配置中心： Config
+# 消息总线： Bus
+# 消息驱动的微服务： Stream
+# 服务跟踪： Sleuth
